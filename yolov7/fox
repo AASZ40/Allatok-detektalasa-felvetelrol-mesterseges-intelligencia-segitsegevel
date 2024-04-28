@@ -1,0 +1,470 @@
+video 1/1 (1/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 cat, Done. (15.6ms) Inference, (853.7ms) NMS
+video 1/1 (2/468) /content/yolov7/inference/videos/fox.mp4: Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (3/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 cat, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (4/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (5/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (17.5ms) Inference, (1.7ms) NMS
+video 1/1 (6/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (7/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (8/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (9/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (10/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (11/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (12/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (13/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (14/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (15/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (16/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (17/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (18/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (19/468) /content/yolov7/inference/videos/fox.mp4: 1 bird, 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (20/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (21/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (22/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (23/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (24/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (25/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (26/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (27/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (28/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 bear, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (29/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (30/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (31/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (32/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (33/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (34/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (35/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (36/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (37/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (38/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (39/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (40/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (41/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (42/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (16.1ms) Inference, (1.9ms) NMS
+video 1/1 (43/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (44/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (45/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (46/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (47/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (48/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (49/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (50/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (51/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.1ms) NMS
+video 1/1 (52/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (53/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (54/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (55/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (56/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (57/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (58/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (59/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (60/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (61/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (62/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.5ms) Inference, (1.7ms) NMS
+video 1/1 (63/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.2ms) NMS
+video 1/1 (64/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (65/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (7.3ms) NMS
+video 1/1 (66/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (67/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (68/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (69/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.0ms) NMS
+video 1/1 (70/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.4ms) NMS
+video 1/1 (71/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (72/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.0ms) NMS
+video 1/1 (73/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (74/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (75/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (76/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (77/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (78/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (79/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (80/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (81/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (82/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (83/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (84/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (85/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (86/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (87/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (88/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (89/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (90/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (91/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (92/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (93/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (94/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (95/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (96/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.9ms) NMS
+video 1/1 (97/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (98/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (99/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (100/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (23.9ms) Inference, (2.8ms) NMS
+video 1/1 (101/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (102/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.6ms) Inference, (1.4ms) NMS
+video 1/1 (103/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.9ms) Inference, (1.4ms) NMS
+video 1/1 (104/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.1ms) Inference, (8.5ms) NMS
+video 1/1 (105/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (16.9ms) Inference, (1.4ms) NMS
+video 1/1 (106/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (23.8ms) Inference, (1.5ms) NMS
+video 1/1 (107/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (9.7ms) NMS
+video 1/1 (108/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (16.3ms) Inference, (1.7ms) NMS
+video 1/1 (109/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.0ms) NMS
+video 1/1 (110/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.1ms) Inference, (2.3ms) NMS
+video 1/1 (111/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (112/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.1ms) Inference, (1.8ms) NMS
+video 1/1 (113/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (18.5ms) Inference, (1.8ms) NMS
+video 1/1 (114/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (115/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (116/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (117/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (118/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.9ms) NMS
+video 1/1 (119/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (120/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (121/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (122/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (123/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (124/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (125/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (126/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (127/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (128/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.7ms) Inference, (1.8ms) NMS
+video 1/1 (129/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (130/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (131/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (132/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (133/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (134/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (135/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (136/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (137/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (16.8ms) Inference, (1.7ms) NMS
+video 1/1 (138/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.0ms) NMS
+video 1/1 (139/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (140/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (141/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (142/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (143/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (144/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (145/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (146/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (147/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (148/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (149/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (150/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (151/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (152/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (18.9ms) Inference, (1.8ms) NMS
+video 1/1 (153/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (154/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (155/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (156/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (157/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (158/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (159/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (160/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (161/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (162/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (163/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.0ms) NMS
+video 1/1 (164/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (165/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (166/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (167/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (168/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (169/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (170/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (171/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.8ms) Inference, (1.3ms) NMS
+video 1/1 (172/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (173/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (174/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (175/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.8ms) Inference, (1.9ms) NMS
+video 1/1 (176/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (20.5ms) Inference, (1.7ms) NMS
+video 1/1 (177/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (178/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (179/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (180/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (181/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (182/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (183/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (184/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.8ms) Inference, (1.1ms) NMS
+video 1/1 (185/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (186/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (187/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (188/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (189/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (190/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (191/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (192/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (193/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (194/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (195/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (196/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (197/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (198/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (199/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (200/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (201/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (202/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.2ms) NMS
+video 1/1 (203/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (204/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (205/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.9ms) NMS
+video 1/1 (206/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (207/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (208/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (209/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (210/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (211/468) /content/yolov7/inference/videos/fox.mp4: 1 bear, Done. (16.1ms) Inference, (1.6ms) NMS
+video 1/1 (212/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (20.3ms) Inference, (1.7ms) NMS
+video 1/1 (213/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (214/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (3.5ms) NMS
+video 1/1 (215/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (22.5ms) Inference, (8.5ms) NMS
+video 1/1 (216/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (217/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.5ms) NMS
+video 1/1 (218/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (16.2ms) Inference, (1.5ms) NMS
+video 1/1 (219/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (19.3ms) Inference, (1.4ms) NMS
+video 1/1 (220/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (221/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (222/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (22.3ms) Inference, (1.5ms) NMS
+video 1/1 (223/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (2.4ms) NMS
+video 1/1 (224/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (23.8ms) Inference, (1.6ms) NMS
+video 1/1 (225/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (2.2ms) NMS
+video 1/1 (226/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (17.9ms) Inference, (4.2ms) NMS
+video 1/1 (227/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (228/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (229/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (230/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (231/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (232/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (233/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (234/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (235/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (236/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (237/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (238/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.2ms) NMS
+video 1/1 (239/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (240/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (18.6ms) Inference, (1.6ms) NMS
+video 1/1 (241/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (242/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (243/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (244/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (245/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (246/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (247/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (248/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (249/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (250/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (251/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (252/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (253/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (254/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (255/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (256/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (257/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (258/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (259/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (260/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (261/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (262/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.2ms) NMS
+video 1/1 (263/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (264/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (265/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (266/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (267/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.9ms) Inference, (1.4ms) NMS
+video 1/1 (268/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (269/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (270/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (271/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (272/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (273/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (274/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (275/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (276/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (277/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (278/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (279/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.3ms) NMS
+video 1/1 (280/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (281/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (282/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (283/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (284/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (285/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (286/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (287/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (288/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (289/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (290/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (291/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (292/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (293/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (294/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (295/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (296/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (297/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (298/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (299/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (300/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (301/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (302/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (303/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (2.0ms) NMS
+video 1/1 (304/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (305/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (306/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (307/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (308/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (309/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (310/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (16.1ms) Inference, (1.7ms) NMS
+video 1/1 (311/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.8ms) Inference, (1.9ms) NMS
+video 1/1 (312/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (313/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (314/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (315/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 bear, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (316/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (317/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (318/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (319/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (320/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (321/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (16.1ms) Inference, (1.7ms) NMS
+video 1/1 (322/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (323/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (324/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.8ms) Inference, (2.0ms) NMS
+video 1/1 (325/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (18.5ms) Inference, (1.6ms) NMS
+video 1/1 (326/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (19.7ms) Inference, (4.3ms) NMS
+video 1/1 (327/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (16.9ms) Inference, (3.4ms) NMS
+video 1/1 (328/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (24.7ms) Inference, (1.6ms) NMS
+video 1/1 (329/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (330/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (18.8ms) Inference, (1.4ms) NMS
+video 1/1 (331/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (16.7ms) Inference, (1.4ms) NMS
+video 1/1 (332/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (333/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (21.7ms) Inference, (1.4ms) NMS
+video 1/1 (334/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (335/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (19.8ms) Inference, (1.5ms) NMS
+video 1/1 (336/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (337/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (2.2ms) NMS
+video 1/1 (338/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (339/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (2.0ms) NMS
+video 1/1 (340/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (18.9ms) Inference, (1.7ms) NMS
+video 1/1 (341/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (2.2ms) NMS
+video 1/1 (342/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (2.3ms) NMS
+video 1/1 (343/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (344/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (2.0ms) NMS
+video 1/1 (345/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (21.0ms) Inference, (1.7ms) NMS
+video 1/1 (346/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (347/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (348/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (349/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (350/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (351/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (352/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (353/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (354/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (355/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (356/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (357/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.8ms) NMS
+video 1/1 (358/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (359/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (360/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (361/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (362/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (363/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (364/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (365/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (366/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (367/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (368/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (369/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (370/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (371/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (372/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (373/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (374/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (375/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (376/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (377/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (378/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (379/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (380/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (381/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (382/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, Done. (15.7ms) Inference, (1.4ms) NMS
+video 1/1 (383/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (384/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (385/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (386/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (387/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (388/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (389/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (390/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (391/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (392/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (393/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (394/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (395/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (396/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (397/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (398/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (399/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (400/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (401/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (18.8ms) Inference, (1.7ms) NMS
+video 1/1 (402/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (403/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (3.4ms) NMS
+video 1/1 (404/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (405/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (406/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (407/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (408/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (409/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (410/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (411/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (412/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (17.2ms) Inference, (1.6ms) NMS
+video 1/1 (413/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (414/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (415/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (416/468) /content/yolov7/inference/videos/fox.mp4: 1 cat, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (417/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (418/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (419/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (420/468) /content/yolov7/inference/videos/fox.mp4: 1 dog, 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (421/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (422/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (423/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.8ms) NMS
+video 1/1 (424/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.3ms) NMS
+video 1/1 (425/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (426/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (427/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (428/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (429/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (430/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.2ms) NMS
+video 1/1 (431/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (20.8ms) Inference, (1.6ms) NMS
+video 1/1 (432/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (433/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (434/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.6ms) NMS
+video 1/1 (435/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (436/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.9ms) Inference, (1.2ms) NMS
+video 1/1 (437/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (438/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (439/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (440/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (23.0ms) Inference, (1.6ms) NMS
+video 1/1 (441/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.9ms) Inference, (9.9ms) NMS
+video 1/1 (442/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (443/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (22.8ms) Inference, (1.6ms) NMS
+video 1/1 (444/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (27.5ms) Inference, (1.7ms) NMS
+video 1/1 (445/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (446/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (20.1ms) Inference, (1.6ms) NMS
+video 1/1 (447/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (448/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (21.4ms) Inference, (1.6ms) NMS
+video 1/1 (449/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.7ms) NMS
+video 1/1 (450/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (17.5ms) Inference, (1.7ms) NMS
+video 1/1 (451/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.8ms) Inference, (1.4ms) NMS
+video 1/1 (452/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (453/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.9ms) Inference, (2.0ms) NMS
+video 1/1 (454/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.9ms) NMS
+video 1/1 (455/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (456/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (457/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (458/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (459/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (460/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.5ms) NMS
+video 1/1 (461/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (462/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (463/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.7ms) NMS
+video 1/1 (464/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.6ms) NMS
+video 1/1 (465/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.9ms) Inference, (2.1ms) NMS
+video 1/1 (466/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (467/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.1ms) NMS
+video 1/1 (468/468) /content/yolov7/inference/videos/fox.mp4: 1 sheep, Done. (15.7ms) Inference, (1.3ms) NMS
+Done. (53.194s)
+

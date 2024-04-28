@@ -1,0 +1,317 @@
+video 1/1 (1/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 8 cows, Done. (15.2ms) Inference, (453.5ms) NMS
+video 1/1 (2/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 8 cows, 1 bear, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (3/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (4/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 6 cows, Done. (15.4ms) Inference, (1.1ms) NMS
+video 1/1 (5/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (6/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (7/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 6 cows, 1 bear, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (8/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 6 cows, 1 bear, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (9/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 5 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (10/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 7 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (11/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 7 cows, 1 elephant, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (12/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (13/316) /content/yolov7/inference/videos/pigs.mp4: 1 sheep, 5 cows, 1 elephant, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (14/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 7 cows, 1 elephant, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (15/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 4 cows, Done. (18.9ms) Inference, (1.2ms) NMS
+video 1/1 (16/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 4 cows, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (17/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 3 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (18/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (19/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, 1 bear, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (20/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (21/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (22/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 7 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (23/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 4 cows, 1 elephant, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (24/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 6 cows, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (25/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (26/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 3 cows, 1 elephant, Done. (16.4ms) Inference, (1.4ms) NMS
+video 1/1 (27/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 3 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (28/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (29/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 4 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (30/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (31/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 1 cow, Done. (15.3ms) Inference, (1.6ms) NMS
+video 1/1 (32/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 1 cow, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (33/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (34/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 7 sheeps, 1 cow, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (35/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (36/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 sheeps, 1 cow, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (37/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 7 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (38/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 1 cow, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (39/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 2 cows, Done. (15.3ms) Inference, (1.7ms) NMS
+video 1/1 (40/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 2 cows, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (41/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (42/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (43/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (44/316) /content/yolov7/inference/videos/pigs.mp4: 1 horse, 7 sheeps, 3 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (45/316) /content/yolov7/inference/videos/pigs.mp4: 1 horse, 5 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (46/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (47/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 3 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (48/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 4 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (49/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (50/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 2 cows, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (51/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 1 cow, 1 couch, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (52/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (53/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 1 couch, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (54/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (55/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (16.3ms) Inference, (1.6ms) NMS
+video 1/1 (56/316) /content/yolov7/inference/videos/pigs.mp4: 12 sheeps, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (57/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (58/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (59/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 1 cow, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (60/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 7 cows, 1 couch, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (61/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 4 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (62/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 8 cows, Done. (15.3ms) Inference, (1.6ms) NMS
+video 1/1 (63/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (64/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 6 cows, Done. (15.4ms) Inference, (1.8ms) NMS
+video 1/1 (65/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 8 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (66/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (67/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (68/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 6 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (69/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (70/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (71/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (72/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (73/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (74/316) /content/yolov7/inference/videos/pigs.mp4: 12 sheeps, 2 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (75/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (76/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 7 sheeps, 6 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (77/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 7 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (78/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 9 sheeps, 3 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (79/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (80/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 6 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (81/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (82/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 5 cows, Done. (15.3ms) Inference, (1.6ms) NMS
+video 1/1 (83/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 7 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (84/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (85/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (86/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (87/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.4ms) Inference, (1.5ms) NMS
+video 1/1 (88/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (89/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 2 cows, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (90/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (91/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 5 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (92/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 4 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (93/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 4 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (94/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 1 cow, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (95/316) /content/yolov7/inference/videos/pigs.mp4: 13 sheeps, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (96/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 4 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (97/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (98/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (99/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (100/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (101/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, Done. (15.4ms) Inference, (1.9ms) NMS
+video 1/1 (102/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 1 cow, Done. (15.3ms) Inference, (1.7ms) NMS
+video 1/1 (103/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 4 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (104/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 6 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (105/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (106/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (107/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (108/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (109/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 7 sheeps, 2 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (110/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 1 cow, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (111/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 7 sheeps, 2 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (112/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 1 cow, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (113/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 3 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (114/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 1 dog, 8 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (115/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 8 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (116/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 3 cows, Done. (15.3ms) Inference, (1.7ms) NMS
+video 1/1 (117/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 dog, 8 sheeps, Done. (15.3ms) Inference, (1.8ms) NMS
+video 1/1 (118/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (119/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (120/316) /content/yolov7/inference/videos/pigs.mp4: 8 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (121/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 6 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (122/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 7 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (123/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 7 sheeps, 7 cows, Done. (15.3ms) Inference, (1.6ms) NMS
+video 1/1 (124/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 1 cow, Done. (15.4ms) Inference, (5.2ms) NMS
+video 1/1 (125/316) /content/yolov7/inference/videos/pigs.mp4: 9 sheeps, 4 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (126/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 3 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (127/316) /content/yolov7/inference/videos/pigs.mp4: 11 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (128/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 1 cat, 9 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (129/316) /content/yolov7/inference/videos/pigs.mp4: 10 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (130/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (131/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 7 sheeps, 2 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (132/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 1 cat, 5 sheeps, 1 cow, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (133/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 sheeps, 3 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (134/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (135/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 2 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (136/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 sheeps, 2 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (137/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 5 sheeps, 1 cow, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (138/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (139/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (140/316) /content/yolov7/inference/videos/pigs.mp4: 6 sheeps, 3 cows, Done. (15.8ms) Inference, (1.9ms) NMS
+video 1/1 (141/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 3 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (142/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 1 cat, 4 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (143/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (144/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (145/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (146/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (147/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 3 sheeps, 3 cows, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (148/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 3 sheeps, 2 cows, Done. (17.6ms) Inference, (1.6ms) NMS
+video 1/1 (149/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (150/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (151/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (152/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 2 sheeps, 1 cow, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (153/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 1 sheep, 2 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (154/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (155/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 sheeps, 2 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (156/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 sheeps, 1 cow, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (157/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 7 sheeps, 1 cow, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (158/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 sheeps, 1 cow, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (159/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 5 sheeps, 1 cow, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (160/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 4 sheeps, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (161/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 1 sheep, 1 cow, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (162/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 3 sheeps, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (163/316) /content/yolov7/inference/videos/pigs.mp4: 4 cats, 1 sheep, 2 cows, Done. (16.0ms) Inference, (1.2ms) NMS
+video 1/1 (164/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 sheeps, 2 cows, Done. (15.4ms) Inference, (1.5ms) NMS
+video 1/1 (165/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 1 sheep, 2 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (166/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (167/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 1 sheep, 3 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (168/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 3 cows, Done. (15.6ms) Inference, (1.2ms) NMS
+video 1/1 (169/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 sheeps, 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (170/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 4 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (171/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 4 cows, Done. (15.3ms) Inference, (1.3ms) NMS
+video 1/1 (172/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (173/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, Done. (20.2ms) Inference, (1.8ms) NMS
+video 1/1 (174/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 7 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (175/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 6 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (176/316) /content/yolov7/inference/videos/pigs.mp4: 7 sheeps, 6 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (177/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 7 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (178/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 6 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (179/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (180/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (181/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (182/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (183/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 sheeps, 4 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (184/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 6 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (185/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 6 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (186/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 6 cows, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (187/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, 1 chair, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (188/316) /content/yolov7/inference/videos/pigs.mp4: 2 sheeps, 8 cows, Done. (15.4ms) Inference, (1.1ms) NMS
+video 1/1 (189/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (190/316) /content/yolov7/inference/videos/pigs.mp4: 4 sheeps, 5 cows, 1 chair, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (191/316) /content/yolov7/inference/videos/pigs.mp4: 5 sheeps, 4 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (192/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 6 cows, 1 chair, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (193/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 5 cows, 1 chair, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (194/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 5 cows, 1 chair, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (195/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 6 cows, 1 chair, Done. (15.3ms) Inference, (1.1ms) NMS
+video 1/1 (196/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 sheeps, 4 cows, 1 chair, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (197/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 4 sheeps, 4 cows, 1 chair, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (198/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 6 cows, 1 chair, Done. (15.4ms) Inference, (1.8ms) NMS
+video 1/1 (199/316) /content/yolov7/inference/videos/pigs.mp4: 3 sheeps, 6 cows, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (200/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 sheeps, 3 cows, 1 chair, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (201/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, 1 chair, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (202/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, 2 chairs, Done. (15.4ms) Inference, (1.3ms) NMS
+video 1/1 (203/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 7 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (204/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (205/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, 1 chair, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (206/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (207/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, Done. (15.4ms) Inference, (1.9ms) NMS
+video 1/1 (208/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 cows, 1 bear, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (209/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (210/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 4 cows, Done. (21.0ms) Inference, (1.4ms) NMS
+video 1/1 (211/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 5 cows, 1 chair, Done. (18.1ms) Inference, (1.5ms) NMS
+video 1/1 (212/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 5 cows, 1 chair, 1 couch, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (213/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 4 cows, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (214/316) /content/yolov7/inference/videos/pigs.mp4: 3 cats, 5 cows, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (215/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 5 cows, 1 chair, Done. (18.4ms) Inference, (1.6ms) NMS
+video 1/1 (216/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 5 cows, Done. (19.1ms) Inference, (6.5ms) NMS
+video 1/1 (217/316) /content/yolov7/inference/videos/pigs.mp4: 2 cats, 6 cows, 1 couch, Done. (15.4ms) Inference, (1.5ms) NMS
+video 1/1 (218/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (219/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 cows, 1 chair, 1 couch, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (220/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 4 cows, 1 chair, 1 couch, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (221/316) /content/yolov7/inference/videos/pigs.mp4: 1 sheep, 5 cows, 1 chair, 1 couch, Done. (16.1ms) Inference, (1.7ms) NMS
+video 1/1 (222/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 couch, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (223/316) /content/yolov7/inference/videos/pigs.mp4: 3 cows, 1 chair, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (224/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (225/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (18.7ms) Inference, (1.4ms) NMS
+video 1/1 (226/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 couch, Done. (15.4ms) Inference, (1.5ms) NMS
+video 1/1 (227/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 couch, Done. (19.8ms) Inference, (1.5ms) NMS
+video 1/1 (228/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 couch, Done. (15.3ms) Inference, (1.4ms) NMS
+video 1/1 (229/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 couch, Done. (20.7ms) Inference, (1.4ms) NMS
+video 1/1 (230/316) /content/yolov7/inference/videos/pigs.mp4: 3 cows, 1 couch, Done. (15.3ms) Inference, (1.5ms) NMS
+video 1/1 (231/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 cows, 1 couch, Done. (20.8ms) Inference, (1.5ms) NMS
+video 1/1 (232/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 cows, 1 couch, Done. (17.0ms) Inference, (1.5ms) NMS
+video 1/1 (233/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 couch, Done. (15.4ms) Inference, (2.1ms) NMS
+video 1/1 (234/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, 1 couch, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (235/316) /content/yolov7/inference/videos/pigs.mp4: 3 cows, Done. (23.9ms) Inference, (1.4ms) NMS
+video 1/1 (236/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 couch, Done. (19.2ms) Inference, (2.1ms) NMS
+video 1/1 (237/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 couch, Done. (15.4ms) Inference, (1.5ms) NMS
+video 1/1 (238/316) /content/yolov7/inference/videos/pigs.mp4: 1 sheep, 5 cows, Done. (19.6ms) Inference, (1.4ms) NMS
+video 1/1 (239/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, Done. (15.4ms) Inference, (1.8ms) NMS
+video 1/1 (240/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (15.4ms) Inference, (4.0ms) NMS
+video 1/1 (241/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, Done. (17.3ms) Inference, (2.2ms) NMS
+video 1/1 (242/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (243/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, Done. (19.6ms) Inference, (2.2ms) NMS
+video 1/1 (244/316) /content/yolov7/inference/videos/pigs.mp4: 6 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (245/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (15.4ms) Inference, (1.8ms) NMS
+video 1/1 (246/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (247/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (15.4ms) Inference, (1.8ms) NMS
+video 1/1 (248/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (22.0ms) Inference, (1.7ms) NMS
+video 1/1 (249/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (250/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (16.4ms) Inference, (1.8ms) NMS
+video 1/1 (251/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (252/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (253/316) /content/yolov7/inference/videos/pigs.mp4: 3 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (254/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, Done. (15.4ms) Inference, (1.7ms) NMS
+video 1/1 (255/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 cows, Done. (15.4ms) Inference, (1.2ms) NMS
+video 1/1 (256/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 1 cat, 2 cows, Done. (15.3ms) Inference, (1.2ms) NMS
+video 1/1 (257/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 1 cat, 3 cows, Done. (15.4ms) Inference, (1.4ms) NMS
+video 1/1 (258/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 1 cat, 1 sheep, 3 cows, Done. (15.4ms) Inference, (1.6ms) NMS
+video 1/1 (259/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, Done. (14.2ms) Inference, (1.1ms) NMS
+video 1/1 (260/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, Done. (14.3ms) Inference, (1.4ms) NMS
+video 1/1 (261/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 1 cat, 2 cows, Done. (14.3ms) Inference, (1.5ms) NMS
+video 1/1 (262/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 cows, Done. (14.3ms) Inference, (1.2ms) NMS
+video 1/1 (263/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 1 cow, Done. (14.2ms) Inference, (1.4ms) NMS
+video 1/1 (264/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 cow, Done. (14.3ms) Inference, (1.2ms) NMS
+video 1/1 (265/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, Done. (14.2ms) Inference, (1.7ms) NMS
+video 1/1 (266/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, Done. (14.2ms) Inference, (1.1ms) NMS
+video 1/1 (267/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 cows, Done. (14.2ms) Inference, (1.2ms) NMS
+video 1/1 (268/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 4 cows, 1 couch, Done. (14.3ms) Inference, (1.5ms) NMS
+video 1/1 (269/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 4 cows, Done. (14.3ms) Inference, (1.2ms) NMS
+video 1/1 (270/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 dog, 4 cows, 1 couch, Done. (14.3ms) Inference, (1.6ms) NMS
+video 1/1 (271/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 dog, 3 cows, Done. (14.2ms) Inference, (1.2ms) NMS
+video 1/1 (272/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, Done. (14.2ms) Inference, (1.2ms) NMS
+video 1/1 (273/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 2 cows, Done. (14.2ms) Inference, (1.5ms) NMS
+video 1/1 (274/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 1 cow, 1 couch, Done. (14.2ms) Inference, (1.1ms) NMS
+video 1/1 (275/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 1 cow, 1 couch, Done. (14.2ms) Inference, (1.3ms) NMS
+video 1/1 (276/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 2 cows, 1 couch, Done. (14.2ms) Inference, (1.2ms) NMS
+video 1/1 (277/316) /content/yolov7/inference/videos/pigs.mp4: 1 sheep, 3 cows, 1 couch, Done. (14.2ms) Inference, (1.5ms) NMS
+video 1/1 (278/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 3 cows, Done. (14.2ms) Inference, (1.1ms) NMS
+video 1/1 (279/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 2 cows, 1 couch, Done. (14.2ms) Inference, (1.6ms) NMS
+video 1/1 (280/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 3 cows, 1 couch, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (281/316) /content/yolov7/inference/videos/pigs.mp4: 1 dog, 3 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (282/316) /content/yolov7/inference/videos/pigs.mp4: 1 dog, 4 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (283/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, Done. (13.7ms) Inference, (1.6ms) NMS
+video 1/1 (284/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (13.8ms) Inference, (1.3ms) NMS
+video 1/1 (285/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 dog, 5 cows, Done. (13.7ms) Inference, (1.7ms) NMS
+video 1/1 (286/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, 1 couch, Done. (13.8ms) Inference, (1.2ms) NMS
+video 1/1 (287/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 4 cows, 1 couch, Done. (13.8ms) Inference, (1.4ms) NMS
+video 1/1 (288/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 1 sheep, 5 cows, 1 couch, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (289/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, 1 couch, Done. (13.8ms) Inference, (1.7ms) NMS
+video 1/1 (290/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, Done. (13.8ms) Inference, (1.6ms) NMS
+video 1/1 (291/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 cows, Done. (13.7ms) Inference, (1.2ms) NMS
+video 1/1 (292/316) /content/yolov7/inference/videos/pigs.mp4: 1 person, 1 cat, 5 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (293/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (13.8ms) Inference, (1.1ms) NMS
+video 1/1 (294/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (13.7ms) Inference, (1.5ms) NMS
+video 1/1 (295/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (13.7ms) Inference, (1.4ms) NMS
+video 1/1 (296/316) /content/yolov7/inference/videos/pigs.mp4: 8 cows, 1 bear, Done. (13.8ms) Inference, (1.1ms) NMS
+video 1/1 (297/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, Done. (13.8ms) Inference, (1.2ms) NMS
+video 1/1 (298/316) /content/yolov7/inference/videos/pigs.mp4: 8 cows, Done. (13.7ms) Inference, (1.2ms) NMS
+video 1/1 (299/316) /content/yolov7/inference/videos/pigs.mp4: 8 cows, Done. (13.8ms) Inference, (1.2ms) NMS
+video 1/1 (300/316) /content/yolov7/inference/videos/pigs.mp4: 8 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (301/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (302/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 bear, Done. (13.7ms) Inference, (1.2ms) NMS
+video 1/1 (303/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 couch, Done. (13.8ms) Inference, (1.4ms) NMS
+video 1/1 (304/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 6 cows, 1 couch, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (305/316) /content/yolov7/inference/videos/pigs.mp4: 3 cows, 1 bear, Done. (13.8ms) Inference, (1.5ms) NMS
+video 1/1 (306/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, 1 bear, 1 couch, Done. (13.7ms) Inference, (1.2ms) NMS
+video 1/1 (307/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 bear, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (308/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 bear, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (309/316) /content/yolov7/inference/videos/pigs.mp4: 7 cows, Done. (13.7ms) Inference, (1.2ms) NMS
+video 1/1 (310/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 6 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (311/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (13.7ms) Inference, (1.1ms) NMS
+video 1/1 (312/316) /content/yolov7/inference/videos/pigs.mp4: 4 cows, 1 bear, Done. (13.1ms) Inference, (1.3ms) NMS
+video 1/1 (313/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 5 cows, Done. (13.2ms) Inference, (1.6ms) NMS
+video 1/1 (314/316) /content/yolov7/inference/videos/pigs.mp4: 1 cat, 7 cows, Done. (13.1ms) Inference, (1.1ms) NMS
+video 1/1 (315/316) /content/yolov7/inference/videos/pigs.mp4: 5 cows, Done. (13.1ms) Inference, (1.2ms) NMS
+video 1/1 (316/316) /content/yolov7/inference/videos/pigs.mp4: 1 bird, 6 cows, Done. (13.1ms) Inference, (1.1ms) NMS
+Done. (14.774s)
