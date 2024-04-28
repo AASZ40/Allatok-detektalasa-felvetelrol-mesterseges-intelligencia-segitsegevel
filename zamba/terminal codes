@@ -1,0 +1,20 @@
+sudo apt update
+sudo apt install ffmpeg
+
+pip install https://github.com/drivendataorg/zamba/releases/latest/download/zamba.tar.gz
+
+apt-get update && \ apt-get install -y software-properties-common && \ add-apt-repository -y ppa:savoury1/ffmpeg4 && \ apt-get update && \ apt-get -y install \ build-essential \ ffmpeg \ git \ libavcodec-dev \ libavdevice-dev \ libavfilter-dev \ libavformat-dev \ libavutil-dev \ libsm6 \ libswresample-dev \ libswscale-dev \ libxext6 \ pkg-config \ wget \ x264 \ x265
+
+#train
+zamba train --data-dir example_vids/ --labels example_labels.csv
+
+cat example_labels.csv 
+filepath, label
+
+#predict
+zamba predict --data-dir example_vids/--model european
+
+#get results
+cat zamba_predictions.csv
+
+
