@@ -1,0 +1,64 @@
+import sys
+import torch
+print(f"Python version: {sys.version}, {sys.version_info} ")
+print(f"Pytorch version: {torch.__version__} ")
+
+--
+!nvidia-smi
+--
+
+--
+!git clone https://github.com/WongKinYiu/yolov7
+%cd yolov7
+!ls
+--
+
+--
+#train by robolow website's custom dataset
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="YOUR API KEY")
+project = rf.workspace("YOUR-WORKSPACE").project("YOUR-PROJECT")
+dataset = project.version(1).download("yolov7")
+--
+
+--
+%cd /content/yolov7
+!wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7_training.pt
+--
+
+--
+#train
+%cd /content/yolov7
+!python train.py --batch 16 --epochs 55 --data {dataset.location}/data.yaml --weights 'yolov7_training.pt' --device 0
+--
+
+--
+# Detection
+!python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/videos/sheeps_1.mp4
+--
+
+--
+#visualization
+def imShow(path):
+  import cv2
+  import matplotlib.pyplot as plt
+  %matplotlib inline
+
+  image = cv2.imread(path)
+  height, width = image.shape[:2]
+  resized_image = cv2.resize(image,(3*width, 3*height), interpolation = cv2.INTER_CUBIC)
+
+  fig = plt.gcf()
+  fig.set_size_inches(18, 10)
+  plt.axis("off")
+  plt.imshow(cv2.cvtColor(resized_image, cv2.COLOR_BGR2RGB))
+  plt.show()
+  --
+
+  --
+  imShow("runs/detect/exp/cows.mp4")
+  --
+
+  
